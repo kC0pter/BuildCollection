@@ -24,7 +24,7 @@ permalink: /blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
 show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
-git_branch: "main"
+git_branch: "gh-pages"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: 
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
@@ -62,11 +62,11 @@ site_root:
 # git-wiki includes some internal themes that you can choose
 # check _layouts folder
 #
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# markdown: kramdown
+# highlighter: rouge
+# kramdown:
+#   input: GFM
+#   syntax_highlighter: rouge
 
 defaults:
  - 
@@ -96,8 +96,8 @@ defaults:
       path: blog
     values:
       layout: "git-wiki-blog"
-sass:
-    style: compressed
+# sass:
+#     style: compressed
 plugins:
   - jekyll-avatar
   - jekyll-coffeescript
