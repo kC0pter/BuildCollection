@@ -5,3 +5,5 @@ title: "Jekyll Actions Demo"
 # Build settings
 markdown: kramdown
 remote_theme: Gaohaoyang/gaohaoyang.github.io
+plugins:
+- jekyll-remote-theme # Activating remote themes for jekyll
