@@ -1,6 +1,4 @@
 ---
-redirect_from: /
-published: true
 ---
 
 # Welcome to git-wiki demo!
