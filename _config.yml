@@ -128,11 +128,11 @@ plugins:
 inc_before_toc : 
 inc_after_toc : 
 inc_before_content : 
-inc_after_content : 
+inc_after_content : "comments.html"
 inc_before_footer : 
 inc_after_footer : 
 inc_before_head : 
-inc_after_head : 
+inc_after_head : "head.html"
 inc_before_meta : 
 inc_after_meta : 
 inc_before_scripts : 
@@ -146,7 +146,7 @@ inc_after_tail :
 inc_before_tools : 
 inc_after_tools : 
 
-inc_before_page_list :
+inc_before_page_list : "sidebar.html"
 # inc_after_page_list : sidebar.html
 inc_after_page_list :
 inc_before_post_list :
