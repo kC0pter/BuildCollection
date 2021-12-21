@@ -1,9 +1,11 @@
 # (string) Title of your wiki
 title: BuildCollection
-demo_ver: 1.0.13
-repository: TD2Builds/BuildCollection
-remote_theme: rundocs/jekyll-rtd-theme
 description: TD2 Builds and Docs
+
+repository: TD2Builds/BuildCollection
+
+remote_theme: rundocs/jekyll-rtd-theme
+
 # show_downloads: true
 # show_wiki_pages: true
 # show_wiki_pages_limit: 10
@@ -29,30 +31,28 @@ site_root:
 #
 
 plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  # - jekyll-feed
+  # - jekyll-redirect-from
+  # - jekyll-seo-tag
+  # - jekyll-sitemap
   - jekyll-avatar
-  - jemoji
+  # - jemoji
   - jekyll-mentions
-  - jekyll-avatar
-  - jekyll-coffeescript
-  - jekyll-default-layout
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-mentions
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-redirect-from
-  - jekyll-remote-theme
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-titles-from-headings
+  # - jekyll-coffeescript
+  # - jekyll-default-layout
+  # - jekyll-feed
+  # - jekyll-gist
+  # - jekyll-paginate
+  # - jekyll-optional-front-matter
+  # - jekyll-readme-index
+  # - jekyll-redirect-from
+  # - jekyll-remote-theme
+  # - jekyll-relative-links
+  # - jekyll-seo-tag
+  # - jekyll-sitemap
+  # - jekyll-titles-from-headings
   - jemoji
-  - jekyll-gitlab-metadata
+  # - jekyll-gitlab-metadata
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need
