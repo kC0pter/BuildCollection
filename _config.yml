@@ -26,33 +26,31 @@ remote_theme: rundocs/jekyll-rtd-theme
 # permalink: /blog/posts/:year/:month/:day/:title:output_ext
 site_root:
 
-#
-# Jekyll
-#
+readme_index:
+  with_frontmatter: true
 
 plugins:
-  # - jekyll-feed
-  # - jekyll-redirect-from
-  # - jekyll-seo-tag
-  # - jekyll-sitemap
-  - jekyll-avatar
-  # - jemoji
-  - jekyll-mentions
-  # - jekyll-coffeescript
-  # - jekyll-default-layout
-  # - jekyll-feed
-  # - jekyll-gist
-  # - jekyll-paginate
-  # - jekyll-optional-front-matter
-  # - jekyll-readme-index
-  # - jekyll-redirect-from
-  # - jekyll-remote-theme
-  # - jekyll-relative-links
-  # - jekyll-seo-tag
-  # - jekyll-sitemap
-  # - jekyll-titles-from-headings
   - jemoji
-  # - jekyll-gitlab-metadata
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - LICENSE
+  - update.sh
+  - Gemfile
+  - Gemfile.lock
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
+
+baseurl: ""
+url: "td2builds.github.io"
+
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need
