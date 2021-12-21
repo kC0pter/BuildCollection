@@ -34,22 +34,22 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
 
-exclude:
-  - Makefile
-  - CNAME
-  - LICENSE
-  - update.sh
-  - Gemfile
-  - Gemfile.lock
-  - requirements.txt
-  - node_modules
-  - package.json
-  - package-lock.json
-  - webpack.config.js
-  - jekyll-rtd-theme.gemspec
+# exclude:
+#   - Makefile
+#   - CNAME
+#   - LICENSE
+#   - update.sh
+#   - Gemfile
+#   - Gemfile.lock
+#   - requirements.txt
+#   - node_modules
+#   - package.json
+#   - package-lock.json
+#   - webpack.config.js
+#   - jekyll-rtd-theme.gemspec
 
-# baseurl: "/BuildCollection"
-# url: "td2builds.github.io"
+baseurl: "/BuildCollection"
+url: "td2builds.github.io"
 
 #
 # INCLUDING HOOKS
