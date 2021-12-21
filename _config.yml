@@ -2,7 +2,7 @@
 title: BuildCollection
 demo_ver: 1.0.13
 repository: TD2Builds/BuildCollection
-#remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 description: TD2 Builds and Docs
 # show_downloads: true
 # show_wiki_pages: true
