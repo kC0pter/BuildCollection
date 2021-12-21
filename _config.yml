@@ -48,8 +48,8 @@ exclude:
   - webpack.config.js
   - jekyll-rtd-theme.gemspec
 
-baseurl: "/BuildCollection"
-url: "td2builds.github.io"
+# baseurl: "/BuildCollection"
+# url: "td2builds.github.io"
 
 #
 # INCLUDING HOOKS
