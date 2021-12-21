@@ -1,9 +1,9 @@
 # (string) Title of your wiki
-title: git-wiki
+title: BuildCollection
 demo_ver: 1.0.13
 repository: TD2Builds/BuildCollection
-remote_theme: Drassil/git-wiki-theme@master
-description: Git-Wiki demo and documentation
+#remote_theme: Drassil/git-wiki-theme@master
+description: TD2 Builds and Docs
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
