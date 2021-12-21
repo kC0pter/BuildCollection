@@ -6,9 +6,9 @@ repository: TD2Builds/BuildCollection
 
 remote_theme: rundocs/jekyll-rtd-theme
 
-nav_version: true
-edit: true
-addons_branch: true
+# nav_version: true
+# edit: true
+# addons_branch: true
 
 readme_index:
   with_frontmatter: true
