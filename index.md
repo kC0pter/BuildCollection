@@ -1,8 +1,10 @@
 ---
 ---
 
-# Welcome to git-wiki demo!
+# Meine Buildpage
+Lets gooooooo
 
+<!-- 
 This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
 
 it's a **modular and full featured wiki** powered by git, [github](https://pages.github.com/)/[gitlab](https://about.gitlab.com/product/pages/) pages and pull-requests!
@@ -140,4 +142,4 @@ Thank you!
 
 - [jQuery](https://jquery.com/) for DOM manipulation
 
-[MIT LICENSE](LICENSE)
+[MIT LICENSE](LICENSE) -->

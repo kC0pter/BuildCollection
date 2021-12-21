@@ -18,60 +18,69 @@ git_branch: gh-pages
 use_github_wiki: false
 use_prose_io: true
 service: github
-search_engine : "js"
+search_engine: "js"
 google_cse_token: 007197903287787072094:8rbvkeqo6qw
-wiki_folder : "wiki"
+wiki_folder: "wiki"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
-site_root: 
+site_root:
 
 #
 # Jekyll
 #
 
-defaults:
- - 
-    scope:
-      path: "wiki"
-    values:
-      permalink: /:basename
- -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "git-wiki-default"
- -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "git-wiki-default"
- -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "git-wiki-post"
- -
-    scope:
-      path: assets/blog
-    values:
-      layout: "git-wiki-blog"
-
 plugins:
- - jekyll-feed
- - jekyll-redirect-from
- - jekyll-seo-tag
- - jekyll-sitemap
- - jekyll-avatar
- - jemoji
- - jekyll-mentions
-  
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+  - jemoji
+  - jekyll-mentions
+  - jekyll-avatar
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jemoji
+  - jekyll-gitlab-metadata
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need
 # Check wiki documentation to learn how they work
 #
 
-inc_after_content: "comments.html"
-inc_after_head : "head.html"
-inc_before_page_list : "sidebar.html"
+# inc_before_toc :
+# inc_after_toc :
+# inc_before_content :
+# inc_after_content :
+# inc_before_footer :
+# inc_after_footer :
+# inc_before_head :
+# inc_after_head :
+# inc_before_meta :
+# inc_after_meta :
+# inc_before_scripts :
+# inc_after_scripts :
+# inc_before_styles :
+# inc_after_styles :
+# inc_before_header :
+# inc_after_header :
+# inc_before_tail :
+# inc_after_tail :
+# inc_before_tools :
+# inc_after_tools :
+
+# inc_before_page_list :
+# inc_after_page_list :
+# inc_before_post_list :
+# inc_after_post_list :
