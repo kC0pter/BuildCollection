@@ -1,3 +1,7 @@
+---
+title: Build Nr 1 YAML Front Matter
+description: A very simple way to add structured data to a page.
+---
 # Build Nr 1
 Test text
 
