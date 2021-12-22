@@ -20,6 +20,7 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  - jekyll-redirect-from
 
 baseurl: "/BuildCollection"
 url: "td2builds.github.io"
