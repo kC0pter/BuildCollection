@@ -1,3 +1,6 @@
+---
+redirect_from: RedirectToBuild1.md
+---
 # Build Nr 1
 Test text
 
