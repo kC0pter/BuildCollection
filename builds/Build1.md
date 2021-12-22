@@ -1,6 +1,3 @@
----
-redirect_from: testRedirect/RedirectToBuild1.html
----
 # Build Nr 1
 Test text
 
