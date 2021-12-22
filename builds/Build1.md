@@ -1,5 +1,5 @@
 ---
-redirect_from: RedirectToBuild1.md
+redirect_from: testRedirect/RedirectToBuild1.md
 ---
 # Build Nr 1
 Test text
