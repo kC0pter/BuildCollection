@@ -7,7 +7,9 @@ Tags: ...
 Some text after that.
 
 ## Build Link
-![[Blueprint Build Picture](/assets/images/blueprint-build.png)](https://mxswat.github.io/mx-division-builds)
+![Blueprint Build Picture](/assets/images/blueprint-build.png)
+
+[Link](https://mxswat.github.io/mx-division-builds)
 
 ## Skills
 dfghfjtjfghjktz
