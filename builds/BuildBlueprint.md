@@ -1,15 +1,15 @@
 # Blueprint Build
 \<This file is used as a blueprint. Copy it and fill the categories as needed.>
+
 Tags: ...
 
-## Header 1
+## Description
 Some text after that.
 
-### Header 1.2
-asdfgadfg
-adfgsdfg
+## Build Link
+[[Blueprint Build Picture](assets/images/blueprint-build.png)](https://mxswat.github.io/mx-division-builds)
 
-#### Header 1.3
+## Skills
 dfghfjtjfghjktz
 fghjfghjfghj
 
