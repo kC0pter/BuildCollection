@@ -1,6 +1,9 @@
-# Meine Buildpage
-Lets gooooooo.
-Update
+# Welcome to a TD2 Build Collection
+This little website is meant for a collection of different builds due to the lack of a proper way to inspect them.
+Some of these builds have their source from somewhere else which will be mentioned in the appropriate build.
+
+The builds use a [third party tool](https://mxswat.github.io/mx-division-builds) to visualize the gear used. 
+The source will be linked (eg. YT Video, Reddit link, etc.) so a proper understanding of the build can be achieved.
 
 <!-- 
 This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
