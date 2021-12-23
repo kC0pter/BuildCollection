@@ -11,6 +11,10 @@ Some text after that.
 
 [Link](https://mxswat.github.io/mx-division-builds)
 
+Clickable image:
+
+[![Blueprint Build Picture](/assets/images/blueprint-build.png)](https://mxswat.github.io/mx-division-builds)
+
 ## Skills
 dfghfjtjfghjktz
 fghjfghjfghj
