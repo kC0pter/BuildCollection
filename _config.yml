@@ -21,6 +21,7 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-target-blank
+  - jekyll-github-metadata
 
 
 baseurl: "/BuildCollection"
