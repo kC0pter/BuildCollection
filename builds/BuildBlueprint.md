@@ -4,16 +4,16 @@
 Tags: ...
 
 ## Description
-Some text after that.
+Explain the reason, mechanics, purpose, style, etc. of this build.
 
-## Build Link
-![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)
+## Link to the 
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/blueprint-build.png)
 
 [Link](https://mxswat.github.io/mx-division-builds)
 
 Clickable image:
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)](https://mxswat.github.io/mx-division-builds)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds)
 
 ## Skills
 dfghfjtjfghjktz
