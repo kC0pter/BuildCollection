@@ -4,20 +4,18 @@
 Tags: ...
 
 ## Description
-Explain the reason, mechanics, purpose, style, etc. of this build.
+\<Explain the reason, mechanics, purpose, style, etc. of this build.> 
 
-## Link to the 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/blueprint-build.png)
-
-[Link](https://mxswat.github.io/mx-division-builds)
-
-Clickable image:
-
+## Gear
 [![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds)
 
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/blueprint-build.png)
+
 ## Skills
-dfghfjtjfghjktz
-fghjfghjfghj
+1. Skill with Variant 1 - Mods
+2. Skill with Variant 2 - Mods
+
+\<Maybe little description or skill alternatives e.g. for different playstyles / modes>
 
 ## Header 2
 sdf
