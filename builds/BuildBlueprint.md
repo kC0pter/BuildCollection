@@ -7,6 +7,9 @@ Tags: ...
 \<Explain the reason, mechanics, purpose, style, etc. of this build.> 
 
 ## Gear
+The following link points to the external tool to visualize the gear used.
+The image has been generated and extracted from there.
+
 [![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds)
 
 [![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/blueprint-build.png)
@@ -17,13 +20,12 @@ Tags: ...
 
 \<Maybe little description or skill alternatives e.g. for different playstyles / modes>
 
-## Header 2
-sdf
-sdfsdfdghdfhjfghjkghj
+## Source
 
-### Header 2.2
-ydfgb
-ghsdfg
-hdf
-gh
-dfghj
+\<Link to a youtube video with timestamp, reddit link, etc. or nothing if it's your own build.>
+
+[Example YT Link](https://youtu.be/dQw4w9WgXcQ)
+[Example YT Link with timestamp](https://youtu.be/dQw4w9WgXcQ?t=89)(Build Nr x at mm:ss)
+
+## Misc.
+\<If there is something else you need to add do it here>
