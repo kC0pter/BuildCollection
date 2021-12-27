@@ -5,7 +5,8 @@ sort: 2
 In this section you will find a collection of various builds.
 They are ordered in subcategories and tagged with certain tags.
 
-Possible tags are: PVE, PVP,
+Possible tags are:
+PVE, PVP,
 Raid, Summit, FreeRoam, Missions,
 Legendary, Heroic,
 Shotgun, AR, SMG, Marksman, LMG, Pistol,

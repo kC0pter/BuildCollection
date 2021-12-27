@@ -19,7 +19,7 @@ The image has been generated and extracted from there.
 
 ## Skills
 1. Scanner Pulse - Mods: Range, Duration
-2. Reviver Hive - Range, Duration, Reviver Armor Percent
+2. Reviver Hive  - Mods: Range, Duration, Reviver Armor Percent
 
 Can also use the Striker Drone for enemy distraction, Banshee Pulse for  or the Shield for more tankiness (but not really needed).
 
