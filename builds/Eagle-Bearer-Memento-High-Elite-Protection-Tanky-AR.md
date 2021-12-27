@@ -14,7 +14,7 @@ Tags: PVE, Heroic, Legendary, AR, Shield, Brandset, Improvised
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/Eagle-Bearer-Memento-High-Elite-Protection-Tanky-AR.png)](https://mxswat.github.io/mx-division-builds/#/IzC0GZQJlMDZQAYkuYgXAFgW2oEiS5roCc0EeCmmqq6UArBbTMXRuAjJDDh0nThmMVvgEkeEAOyxMkYJmaLai-iRChlyYDChhhoaeWLpdCSI1nsbDIA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/IzC0GZQJlMDZQAYkuYgXAFgW2oEiS5roCc0EeCmmqq6UArBbTMXRuAjJDDh0nThmMVvgEkeEAOyxMkYJmaLai-iRChlyYDChhhoaeWLpdCSI1nsbDIA)
 
 [![Blueprint Build Picture]({{site.baseurl}}/assets/images/Eagle-Bearer-Memento-High-Elite-Protection-Tanky-AR.png)]({{site.baseurl}}/assets/images/Eagle-Bearer-Memento-High-Elite-Protection-Tanky-AR.png)
 
