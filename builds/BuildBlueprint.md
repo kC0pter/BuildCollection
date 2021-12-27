@@ -25,7 +25,8 @@ The image has been generated and extracted from there.
 \<Link to a youtube video with timestamp, reddit link, etc. or nothing if it's your own build.>
 
 [Example YT Link](https://youtu.be/dQw4w9WgXcQ)
-[Example YT Link with timestamp](https://youtu.be/dQw4w9WgXcQ?t=89)(Build Nr x at mm:ss)
+
+[Example YT Link with timestamp](https://youtu.be/dQw4w9WgXcQ?t=89) (Build Nr x at mm:ss)
 
 ## Misc.
 \<If there is something else you need to add do it here>
