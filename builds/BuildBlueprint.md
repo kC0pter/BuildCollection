@@ -1,15 +1,18 @@
 # Blueprint Build
+
 \<This file is used as a blueprint. Copy it and fill the categories as needed.>
 
 Tags: ...
 
 ## Description
+
 \<Explain the reason, mechanics, purpose, style, etc. of this build.> 
 
 * Can use
 * bullet points
 
 ## Gear
+
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
@@ -18,6 +21,7 @@ The image has been generated and extracted from there.
 [![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/blueprint-build.png)
 
 ## Skills
+
 1. Skill with Variant 1 - Mods
 2. Skill with Variant 2 - Mods
 
@@ -32,4 +36,5 @@ The image has been generated and extracted from there.
 [Example YT Link with timestamp](https://youtu.be/dQw4w9WgXcQ?t=89) (Build Nr x at mm:ss)
 
 ## Misc.
+
 \<If there is something else you need to add do it here>
