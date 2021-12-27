@@ -1,4 +1,4 @@
-# Blueprint Build
+# Hunters Fury + Belstone SMG Build
 
 Tags: PVE, Heroic, SMG, NoShield, Gearset
 
