@@ -6,6 +6,9 @@ Tags: ...
 ## Description
 \<Explain the reason, mechanics, purpose, style, etc. of this build.> 
 
+* Can use
+* bullet points
+
 ## Gear
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
