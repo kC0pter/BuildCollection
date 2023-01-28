@@ -15,7 +15,7 @@ The image has been generated and extracted from there.
 
 [![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwZgtATGAMlwjPAnDVtoC5gDY1ngvOOmhvFOFBWCASehhAKw1xT16YqVwf2PB84cHU6kIgwfGgFykXCFwB2FPwggAHHCRL8TWUxFMo8JoLWg9YvjAxMgA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/Police-M4-Memento-Brandset.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Police-M4-Memento-Brandset.jpg)]({{site.baseurl}}/assets/images/Police-M4-Memento-Brandset.jpg)
 
 ## Skills
 

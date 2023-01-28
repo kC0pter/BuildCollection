@@ -15,7 +15,7 @@ The image has been generated and extracted from there.
 
 [![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwVgtAzAnG4ExgIxLsMAGDX0C4TIiwWUTkMwoz0PLGJQUopzgUPqeytEiK89zAafAdhYg0aROmII4ANjDBMADnBMcieQinpk8RaNypCidfwu4QQA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/Kingbreaker-Heartbreaker-Catharsis.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Kingbreaker-Heartbreaker-Catharsis.jpg)]({{site.baseurl}}/assets/images/Kingbreaker-Heartbreaker-Catharsis.jpg)
 
 ## Skills
 

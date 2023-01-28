@@ -15,7 +15,7 @@ The image has been generated and extracted from there.
 
 [![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/IwWgTCDMKhAsA2EAGFbkC5IWq2IAOUVElLOKNfAiUkjAyvdF+sR6CY19DMATiYwedPmHgh+FYBDCo40frV7ACFVAWgBWcHVZ8E3YMh3AA7GZhnB5xqr2YEQA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/Vector-Striker-30Mill-DPS.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Vector-Striker-30Mill-DPS.jpg)]({{site.baseurl}}/assets/images/Vector-Striker-30Mill-DPS.jpg)
 
 ## Skills
 
