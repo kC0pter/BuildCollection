@@ -7,9 +7,11 @@ They are ordered in subcategories and tagged with certain tags.
 
 Possible tags are:
 PVE, PVP,
-Raid, Summit, FreeRoam, Missions,
+Raid, Summit, Countdown, FreeRoam, Missions,
 Legendary, Heroic,
 Shotgun, AR, SMG, Marksman, LMG, Pistol,
+DPS, Tank, Heal,
+Weapon, Skill
 Gearset, Brandset, Improvised,
 Shield, NoShield
 
