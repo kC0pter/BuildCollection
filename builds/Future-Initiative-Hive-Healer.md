@@ -1,7 +1,5 @@
 # Future Initiatives Healer with Hive and BTSU
 
-\<This file is used as a blueprint. Copy it and fill the categories as needed.>
-
 Tags: PVE, Summit, Countdown, Missions, Legendary, Heroic, Shotgun, AR, Heal, Gearset
 Version: TU16
 
