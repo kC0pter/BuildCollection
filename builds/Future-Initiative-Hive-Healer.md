@@ -7,7 +7,7 @@ Version: TU16
 
 * Destroy Hive on last charge
 * Put Drone on Tank
-* Sty close to teammates
+* Stay close to teammates
 
 ## Gear
 
