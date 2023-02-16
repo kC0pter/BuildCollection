@@ -27,7 +27,3 @@ Artificer Hive can be replace with Foam Chem Launcher for Hunters, Legendary bos
 ## Source
 
 [Example YT Link](https://youtu.be/bLHpjq220iU)
-
-## Misc.
-
-\<If there is something else you need to add do it here>

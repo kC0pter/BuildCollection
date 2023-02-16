@@ -6,7 +6,7 @@ Tags: PVE, Legendary, Pistol, Brandset, Shield
 
 * Bulwark Shield absolutely necessary (with 2x Shield Health Mod, 3. doesn't matter)
 * Artificer Hive (with Stim Efficiency Mod)
-* both Main Waffen don't matter
+* both Main Weapons don't matter
 
 ## Gear
 
