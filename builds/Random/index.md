@@ -10,3 +10,4 @@ Builds work with most content (maybe not highly special Raid runs).
 - [Eagle Bearer AR Build with Skill Heal](Eagle-Bearer-AR-Build-with-Skill-Heal.md)
 - [Eagle Bearer + Memento High Elite Protection Tanky AR Build](Eagle-Bearer-Memento-High-Elite-Protection-Tanky-AR.md)
 - [PoliceM4 Memento Brandset AR Build](Police-M4-Memento-Brandset.md)
+- [Solo Striker PVE DPS with Armor Regen](Solo-Striker-PVE-DPS-Armor-Regen.md)
