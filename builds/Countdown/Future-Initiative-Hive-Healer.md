@@ -1,6 +1,6 @@
 # Future Initiatives Healer with Hive and BTSU
 
-Tags: PVE, Summit, Countdown, Missions, Legendary, Heroic, Shotgun, AR, Heal, Gearset
+Tags: PVE, Summit, Countdown, Missions, Legendary, Heroic, Shotgun, AR, Heal, Gearset  
 Version: TU16
 
 ## Description
