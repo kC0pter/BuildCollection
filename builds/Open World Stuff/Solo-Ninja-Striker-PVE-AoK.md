@@ -30,12 +30,4 @@ Skills are not really fixed. Striker Drone for taking away heat and shield for p
 
 ## Source
 
-\<Link to a youtube video with timestamp, reddit link, etc. or nothing if it's your own build.>
-
-[Example YT Link](https://youtu.be/dQw4w9WgXcQ)
-
-[Example YT Link with timestamp](https://youtu.be/dQw4w9WgXcQ?t=89) (Build Nr x at mm:ss)
-
-## Misc.
-
-\<If there is something else you need to add do it here>
+Self made
