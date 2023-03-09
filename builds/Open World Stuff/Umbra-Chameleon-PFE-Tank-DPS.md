@@ -1,6 +1,6 @@
 # Umbra Chamaleon Tank DPS with Protection from Elites
 
-Tags: PVE; FreeRoam, Countdown, Heroic, AR, SMG, DPS, Tank, Weapon, Gearset, Shield
+Tags: PVE; FreeRoam, Countdown, Heroic, AR, SMG, DPS, Tank, Weapon, Gearset, Shield  
 Version: TU16
 
 ## Description

@@ -1,6 +1,6 @@
 # Solo Striker PVE DPS with Armor Regen
 
-Tags: PVE, FreeRoam, Missions, Legendary, Heroic, AR, SMG, DPS, Weapon, Gearset
+Tags: PVE, FreeRoam, Missions, Legendary, Heroic, AR, SMG, DPS, Weapon, Gearset  
 Version: TU16
 
 ## Description
