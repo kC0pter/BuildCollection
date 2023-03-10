@@ -9,7 +9,7 @@ Possible tags are:
 PVE, PVP,  
 Raid, Countdown, Summit, FreeRoam, Missions,  
 Legendary, Heroic,  
-Shotgun, AR, SMG, Marksman, LMG, Pistol  
+Shotgun, AR, SMG, MMR, LMG, Pistol  
 DPS, Tank, Heal, Support  
 Weapon, Skill  
 Gearset, Brandset, Improvised,  
