@@ -5,6 +5,7 @@ Version: TU17
 
 ## Description
 
+* Gunner specialization for more AoK (35%) 
 * Uses Ninjabike Backpack to squeeze in more AoK
 * Can replace the System Corruption mask with a Uzina Getica
   * Trade some AoK (5%) for Dmg (extra roll on mask -> Crit Chance)
