@@ -1,7 +1,7 @@
 ---
 sort: 2
 ---
-# Builds
+# Build Stuff
 In this section you will find a collection of various builds.
 They are ordered in subcategories and tagged with certain tags.
 
