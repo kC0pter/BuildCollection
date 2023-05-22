@@ -15,9 +15,9 @@ Version: TU16
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwNgtOAMYExg7GaympcgXADlmYYBGBWdNMzAVgGYJU5ECY5SWkMr85xnzf0NgFWtCKsxbYDSi5xYjDGA4C4AJwrCFdcqLKRIHvwJZ8iLDSExZbBTQJCr-EEA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/CwNgtOAMYExg7GaympcgXADlmYYBGBWdNMzAVgGYJU5ECY5SWkMr85xnzf0NgFWtCKsxbYDSi5xYjDGA4C4AJwrCFdcqLKRIHvwJZ8iLDSExZbBTQJCr-EEA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Backfire-Heartbreaker-Anti-Bleed-Countdown-Build.jpg)]({{site.baseurl}}/assets/images/Backfire-Heartbreaker-Anti-Bleed-Countdown-Build.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Backfire-Heartbreaker-Anti-Bleed-Countdown-Build.jpg){: .shadow-box }]({{site.baseurl}}/assets/images/Backfire-Heartbreaker-Anti-Bleed-Countdown-Build.jpg)
 
 ## Skills
 

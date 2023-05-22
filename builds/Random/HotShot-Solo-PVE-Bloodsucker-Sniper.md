@@ -17,9 +17,9 @@ Version: TU17
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwTgtMYAxgjGBmayape1AuATADgonIfGqRipsNgUvLVGY+VJfpDCc16ZeO0U0EZKANgIdukrAHY2cWPFgBWMNiRKVuJI0zTaiFSCQgxISCBU7sIlZAUdLYEfx2wgA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/CwTgtMYAxgjGBmayape1AuATADgonIfGqRipsNgUvLVGY+VJfpDCc16ZeO0U0EZKANgIdukrAHY2cWPFgBWMNiRKVuJI0zTaiFSCQgxISCBU7sIlZAUdLYEfx2wgA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/HotShot-Solo-PVE-Bloodsucker-Sniper.png)]({{site.baseurl}}/assets/images/HotShot-Solo-PVE-Bloodsucker-Sniperbuild.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/HotShot-Solo-PVE-Bloodsucker-Sniper.png){: .shadow-box }]({{site.baseurl}}/assets/images/HotShot-Solo-PVE-Bloodsucker-Sniperbuild.png)
 
 ## Skills
 

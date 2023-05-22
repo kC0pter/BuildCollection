@@ -14,9 +14,9 @@ Version: TU16
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/MwTgtAjBbgDJwz2U1L1IFwBYBsbJCpEN4AmA9HbGMAVlQkTLkrauAHZaHT3-YOfNnJgKfCZRwNE4cQIWCyoMPhAAOSHQYQ63Xfl2bSmMtmjwQ+SVTMlFUukA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/MwTgtAjBbgDJwz2U1L1IFwBYBsbJCpEN4AmA9HbGMAVlQkTLkrauAHZaHT3-YOfNnJgKfCZRwNE4cQIWCyoMPhAAOSHQYQ63Xfl2bSmMtmjwQ+SVTMlFUukA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Hybrid-Skill-Stinger-Hive-Build.jpg)]({{site.baseurl}}/assets/images/Hybrid-Skill-Stinger-Hive-Build.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Hybrid-Skill-Stinger-Hive-Build.jpg){: .shadow-box }]({{site.baseurl}}/assets/images/Hybrid-Skill-Stinger-Hive-Build.jpg)
 
 ## Skills
 

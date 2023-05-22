@@ -14,9 +14,9 @@ Version: TU16
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/IwdgtATGDMlgbGADM1L1uQLgCyI8KsMLBhlGVgKw4ypSLAQCcmZbuipYh7fHOcNwptRlHLW68xMpFliForEspyFgOFBpGUI0DPHVQIQlCG66cCqrLFZ4QA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/IwdgtATGDMlgbGADM1L1uQLgCyI8KsMLBhlGVgKw4ypSLAQCcmZbuipYh7fHOcNwptRlHLW68xMpFliForEspyFgOFBpGUI0DPHVQIQlCG66cCqrLFZ4QA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Umbra-Chameleon-PFE-Tank-DPS.png)]({{site.baseurl}}/assets/images/Umbra-Chameleon-PFE-Tank-DPS.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Umbra-Chameleon-PFE-Tank-DPS.png){: .shadow-box }]({{site.baseurl}}/assets/images/Umbra-Chameleon-PFE-Tank-DPS.png)
 
 ## Skills
 

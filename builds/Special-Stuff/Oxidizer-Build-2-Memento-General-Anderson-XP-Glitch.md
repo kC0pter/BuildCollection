@@ -15,9 +15,9 @@ Version: TU16
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/MwTgtAjBbgDJwz2U1L1IFwBYBsbIFIJEN4AmA9HAdmJlRMlgA4r2zNg6oGyOBsTBDa84gici6IxkuUNCpciOuXzB8-IeWzR4IfHXgawLLZh2l5aTAFYgA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/MwTgtAjBbgDJwz2U1L1IFwBYBsbIFIJEN4AmA9HAdmJlRMlgA4r2zNg6oGyOBsTBDa84gici6IxkuUNCpciOuXzB8-IeWzR4IfHXgawLLZh2l5aTAFYgA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Oxidizer-Build-2-Memento-General-Anderson-XP-Glitch.jpg)]({{site.baseurl}}/assets/images/Oxidizer-Build-2-Memento-General-Anderson-XP-Glitch.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Oxidizer-Build-2-Memento-General-Anderson-XP-Glitch.jpg){: .shadow-box }]({{site.baseurl}}/assets/images/Oxidizer-Build-2-Memento-General-Anderson-XP-Glitch.jpg)
 
 ## Skills
 

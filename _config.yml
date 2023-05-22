@@ -10,6 +10,12 @@ remote_theme: rundocs/jekyll-rtd-theme
 # edit: true
 # addons_branch: true
 
+addons:
+  - github
+  - i18n
+  - plugins
+  - analytics
+
 readme_index:
   with_frontmatter: true
 
@@ -26,6 +32,7 @@ plugins:
 
 baseurl: "/BuildCollection"
 url: "td2builds.github.io"
+
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need

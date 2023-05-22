@@ -14,9 +14,9 @@ Version: TU17
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwBgtAzG4Exn5HWU10BcECM9Jh3DAiiWousABy5QH5bFmkrpZRSzNPcXge7cupTAE484HIKkYi4YPADs+Qn3AL+qdNJ7au6AGxA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/CwBgtAzG4Exn5HWU10BcECM9Jh3DAiiWousABy5QH5bFmkrpZRSzNPcXge7cupTAE484HIKkYi4YPADs+Qn3AL+qdNJ7au6AGxA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Ridgeway-Hunters-Hury-PVE-Bleed-Build.png)]({{site.baseurl}}/assets/images/Ridgeway-Hunters-Hury-PVE-Bleed-Build.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Ridgeway-Hunters-Hury-PVE-Bleed-Build.png){: .shadow-box }]({{site.baseurl}}/assets/images/Ridgeway-Hunters-Hury-PVE-Bleed-Build.png)
 
 ## Skills
 

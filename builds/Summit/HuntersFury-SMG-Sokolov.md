@@ -12,9 +12,9 @@ Tags: PVE, Heroic, SMG, Shield, Gearset
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwBgtATG5V79aAuAzARkmFYNQJwDsiCIq22UuWAbMcUmuYhiXaaFonG-Snp+BY94SCCnDAw1DGljhxYAthKiUADkyEcAVhnbsabZW2SVs2pO1FWNpNSA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/CwBgtATG5V79aAuAzARkmFYNQJwDsiCIq22UuWAbMcUmuYhiXaaFonG-Snp+BY94SCCnDAw1DGljhxYAthKiUADkyEcAVhnbsabZW2SVs2pO1FWNpNSA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/HuntersFury-SMG-Sokolov.png)]({{site.baseurl}}/assets/images/HuntersFury-SMG-Sokolov.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/HuntersFury-SMG-Sokolov.png){: .shadow-box }]({{site.baseurl}}/assets/images/HuntersFury-SMG-Sokolov.png)
 
 ## Skills
 

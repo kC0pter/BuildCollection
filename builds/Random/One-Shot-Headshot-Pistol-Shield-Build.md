@@ -13,9 +13,9 @@ Tags: PVE, Legendary, Pistol, Brandset, Shield
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/IwBgtMDsYEwbZxMYgXAFgGwvMMBmCYQ5JDOdBPOUUnDPYSyvO01GAVgRZz7JgtCvNvVHi0E8alB5mhYMAAcEGI2ABOVWwxA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/IwBgtMDsYEwbZxMYgXAFgGwvMMBmCYQ5JDOdBPOUUnDPYSyvO01GAVgRZz7JgtCvNvVHi0E8alB5mhYMAAcEGI2ABOVWwxA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/One-Shot-Headshot-Pistol-Shield-Build.png)]({{site.baseurl}}/assets/images/One-Shot-Headshot-Pistol-Shield-Build.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/One-Shot-Headshot-Pistol-Shield-Build.png){: .shadow-box }]({{site.baseurl}}/assets/images/One-Shot-Headshot-Pistol-Shield-Build.png)
 
 ## Skills
 

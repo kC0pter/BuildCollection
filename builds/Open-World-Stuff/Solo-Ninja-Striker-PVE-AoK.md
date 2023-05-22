@@ -18,9 +18,9 @@ Version: TU17
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/EwTgtAzGAMbHNG2U1yBcBWTqCMZ9cIUSFSNNZ4p58AWOtJ89ADkkX3OefVA9hce3En3BRBwqRmDEwjAGyF4wWHIDsEtOhHSd03tCA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/EwTgtAzGAMbHNG2U1yBcBWTqCMZ9cIUSFSNNZ4p58AWOtJ89ADkkX3OefVA9hce3En3BRBwqRmDEwjAGyF4wWHIDsEtOhHSd03tCA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Solo-Ninja-Striker-PVE-AoK.png)]({{site.baseurl}}/assets/images/Solo-Ninja-Striker-PVE-AoK.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Solo-Ninja-Striker-PVE-AoK.png){: .shadow-box }]({{site.baseurl}}/assets/images/Solo-Ninja-Striker-PVE-AoK.png)
 
 ## Skills
 

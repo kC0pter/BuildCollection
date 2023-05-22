@@ -13,9 +13,9 @@ Tags: PVE, Heroic, SMG, NoShield, Gearset
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwBgtAzG4Ixn5HWgLmAdjAVjJgTPGAJyZKIpbg76EQBsyZKMUUsjH5okyCnjKCER7synZkTg5gADngQCLYPKgscTPBEwxlYugzEhmeA9lL8mdIA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/CwBgtAzG4Ixn5HWgLmAdjAVjJgTPGAJyZKIpbg76EQBsyZKMUUsjH5okyCnjKCER7synZkTg5gADngQCLYPKgscTPBEwxlYugzEhmeA9lL8mdIA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/HuntersFury-SMG-Belstone.png)]({{site.baseurl}}/assets/images/HuntersFury-SMG-Belstone.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/HuntersFury-SMG-Belstone.png){: .shadow-box }]({{site.baseurl}}/assets/images/HuntersFury-SMG-Belstone.png)
 
 ## Skills
 1. Scanner Pulse - Mods: Range, Duration

@@ -17,9 +17,9 @@ Version: TU...
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png)]({{site.baseurl}}/assets/images/blueprint-build.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/blueprint-build.png){: .shadow-box }]({{site.baseurl}}/assets/images/blueprint-build.png)
 
 ## Skills
 

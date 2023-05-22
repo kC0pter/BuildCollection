@@ -14,9 +14,9 @@ Version: TU16
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/IwZgtMAMbdwEwybZrIC5gFYIrogdgE41TZ0A2XCYJBMecPMmTG6lLW5n14AFg4teeTOCjDJ5RgA4GYIgQhdl4rImyCemOdHg4RadPH5qpR+EA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/IwZgtMAMbdwEwybZrIC5gFYIrogdgE41TZ0A2XCYJBMecPMmTG6lLW5n14AFg4teeTOCjDJ5RgA4GYIgQhdl4rImyCemOdHg4RadPH5qpR+EA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Future-Initiative-Hive-Healer.jpg)]({{site.baseurl}}/assets/images/Future-Initiative-Hive-Healer.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Future-Initiative-Hive-Healer.jpg){: .shadow-box }]({{site.baseurl}}/assets/images/Future-Initiative-Hive-Healer.jpg)
 
 ## Skills
 

@@ -14,9 +14,9 @@ Tags: PVE, Heroic, Legendary, AR, Shield
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/IwdgtATGDMbJYAMSXMQLgCwDZVwcMLGqusFFLPFJpnmutABwKxQkdJZswKcfoIyCHSr16jfNACccGXEzxgmZMvakIEYmCbIArJGSZY09Q3K594fhOxA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/IwdgtATGDMbJYAMSXMQLgCwDZVwcMLGqusFFLPFJpnmutABwKxQkdJZswKcfoIyCHSr16jfNACccGXEzxgmZMvakIEYmCbIArJGSZY09Q3K594fhOxA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Chameleon-AR-RunNGun-Cover-Hybrid-Build.png)]({{site.baseurl}}/assets/images/Chameleon-AR-RunNGun-Cover-Hybrid-Build.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Chameleon-AR-RunNGun-Cover-Hybrid-Build.png){: .shadow-box }]({{site.baseurl}}/assets/images/Chameleon-AR-RunNGun-Cover-Hybrid-Build.png)
 
 ## Skills
 

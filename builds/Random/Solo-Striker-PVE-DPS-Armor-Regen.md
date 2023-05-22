@@ -15,9 +15,9 @@ Version: TU16
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/EwDgtMYAxgjH1E2U1yBcAWAbK+-YBmNRSFc9YGSY-MTTE8p9cY6pz5qSgTjHYJuXNHwGkRwirHCNg+SFQG4A7P26VgkOfHDBimYiHAapk9NiA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/EwDgtMYAxgjH1E2U1yBcAWAbK+-YBmNRSFc9YGSY-MTTE8p9cY6pz5qSgTjHYJuXNHwGkRwirHCNg+SFQG4A7P26VgkOfHDBimYiHAapk9NiA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Solo-Striker-PVE-DPS-Armor-Regen.png)]({{site.baseurl}}/assets/images/Solo-Striker-PVE-DPS-Armor-Regen.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Solo-Striker-PVE-DPS-Armor-Regen.png){: .shadow-box }]({{site.baseurl}}/assets/images/Solo-Striker-PVE-DPS-Armor-Regen.png)
 
 ## Skills
 

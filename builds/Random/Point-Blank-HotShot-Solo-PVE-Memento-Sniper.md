@@ -18,9 +18,9 @@ Version: TU17
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/CwTgtMYAxgjGA2ayape1AuYS3ybLAMwbIBMpWkArBHImCOGi5dNgBx0wWt9tRs4SDwFiqSEWF7iBmEDEiF4AdmkUEMDrgyYVJeEVogSIJCEghafTGQS0lsGLGuIpN4EA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/CwTgtMYAxgjGA2ayape1AuYS3ybLAMwbIBMpWkArBHImCOGi5dNgBx0wWt9tRs4SDwFiqSEWF7iBmEDEiF4AdmkUEMDrgyYVJeEVogSIJCEghafTGQS0lsGLGuIpN4EA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Point-Blank-HotShot-Solo-PVE-Memento-Sniper.png)]({{site.baseurl}}/assets/images/Point-Blank-HotShot-Solo-PVE-Memento-Sniper.png)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Point-Blank-HotShot-Solo-PVE-Memento-Sniper.png){: .shadow-box }]({{site.baseurl}}/assets/images/Point-Blank-HotShot-Solo-PVE-Memento-Sniper.png)
 
 ## Skills
 

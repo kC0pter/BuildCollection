@@ -13,9 +13,9 @@ Version: TU16
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png)](https://mxswat.github.io/mx-division-builds/#/IwWgTCDMKhAsA2EAGFbkC5IWq2IAOUVElLOKNfAiUkjAyvdF+sR6CY19DMATiYwedPsEGlgEMKjjR+tXsAIVUBaAFZwdVnwTdgyLcADsJmCcGnGynZgRA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/IwWgTCDMKhAsA2EAGFbkC5IWq2IAOUVElLOKNfAiUkjAyvdF+sR6CY19DMATiYwedPsEGlgEMKjjR+tXsAIVUBaAFZwdVnwTdgyLcADsJmCcGnGynZgRA)
 
-[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Vector-Striker-30Mill-DPS.jpg)]({{site.baseurl}}/assets/images/Vector-Striker-30Mill-DPS.jpg)
+[![Blueprint Build Picture]({{site.baseurl}}/assets/images/Vector-Striker-30Mill-DPS.jpg){: .shadow-box }]({{site.baseurl}}/assets/images/Vector-Striker-30Mill-DPS.jpg)
 
 ## Skills
 
