@@ -5,6 +5,7 @@ sort: 1
 
 This category has random builds that are not focused on a specific activity.
 Builds work with most content (maybe not highly special Raid runs).
+- [Backfire Hazpro Build with Striker and Yaahl](Backfire-Hazpro-Striker.md)
 - [Chameleon Run'N'Gun + Cover Hybrid Build](Chameleon-AR-RunNGun-Cover-Hybrid-Build.md)
 - [Eagle Bearer AR Build with Skill Heal](Eagle-Bearer-AR-Build-with-Skill-Heal.md)
 - [Eagle Bearer + Memento High Elite Protection Tanky AR Build](Eagle-Bearer-Memento-High-Elite-Protection-Tanky-AR.md)

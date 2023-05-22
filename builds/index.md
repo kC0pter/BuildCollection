@@ -26,6 +26,7 @@ All the builds in this collection are:
   - [Solo Ninja Striker with Armor on Kill](Open-World-Stuff/Solo-Ninja-Striker-PVE-AoK.md)
   - [Umbra Chamaleon Tank DPS with Protection from Elites](Open-World-Stuff/Umbra-Chameleon-PFE-Tank-DPS.md)
 - [**Random**](Random/index.md)
+  - [Backfire Hazpro Build with Striker and Yaahl](Random/Backfire-Hazpro-Striker.md)
   - [Chameleon Run'N'Gun + Cover Hybrid Build](Random/Chameleon-AR-RunNGun-Cover-Hybrid-Build.md)
   - [Eagle Bearer AR Build with Skill Heal](Random/Eagle-Bearer-AR-Build-with-Skill-Heal.md)
   - [Eagle Bearer + Memento High Elite Protection Tanky AR Build](Random/Eagle-Bearer-Memento-High-Elite-Protection-Tanky-AR.md)
