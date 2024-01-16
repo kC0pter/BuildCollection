@@ -5,6 +5,9 @@ sort: 2
 In this section you will find a collection of various builds.
 They are ordered in subcategories and tagged with certain tags.
 
+These are just random builds i find worth mentioning or throwing in there
+because they are fun or something similar.
+
 To add new builds make a pullrequest with the new build in the given format placed in the corresponding subcategory.
 
 ## Collected Builds
@@ -45,7 +48,7 @@ All the builds in this collection are:
 ## Build Tags
 Possible tags are:
 PVE, PVP,  
-Raid, Countdown, Summit, FreeRoam, Missions,  
+Raid, Countdown, Incursion, Summit, FreeRoam, Missions, DZ,  
 Legendary, Heroic,  
 Shotgun, AR, SMG, MMR, LMG, Pistol  
 DPS, Tank, Heal, Support  
