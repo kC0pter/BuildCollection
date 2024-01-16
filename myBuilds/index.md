@@ -8,5 +8,5 @@ It doesn't have subcategories since they are categorized in the summary here.
 
 ## The Builds
 
-* [Full DPS Striker with Oreo](Full-DPS-Striker-Oreo.md)(Countdown/Incursion/anything that needs a full red striker)
+* [Full DPS Striker with Oreo](Full-DPS-Striker-Oreo.md) (Countdown/Incursion/anything that needs a full red striker)
 * 
