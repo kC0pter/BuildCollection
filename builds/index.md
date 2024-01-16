@@ -47,12 +47,12 @@ All the builds in this collection are:
 
 ## Build Tags
 Possible tags are:
-PVE, PVP,  
-Raid, Countdown, Incursion, Summit, FreeRoam, Missions, DZ,  
-Legendary, Heroic,  
+PVE, PVP  
+Raid, Countdown, Incursion, Summit, FreeRoam, Missions, DZ  
+Legendary, Heroic  
 Shotgun, AR, SMG, MMR, LMG, Pistol  
 DPS, Tank, Heal, Support  
 Weapon, Skill  
-Gearset, Brandset, Improvised,  
+Gearset, Brandset, Improvised  
 Shield, NoShield
 
