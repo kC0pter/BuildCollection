@@ -1,6 +1,6 @@
 # Hybrid Skill Build with Stinger Hive
 
-Tags: PVE, Heroic, Skill, FreeRoam, Gearset
+Tags: PVE, Heroic, Skill, FreeRoam, Gearset  
 Version: TU16
 
 ## Description
