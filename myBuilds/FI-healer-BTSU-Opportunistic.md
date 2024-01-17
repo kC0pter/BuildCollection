@@ -19,7 +19,7 @@ Version: TU19
 The following link points to the external tool to visualize the gear used.
 The image has been generated and extracted from there.
 
-[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/IwZgtMAMbdow2jlMgLgKxzsB9gBMuqKp6wGEJ8AHCfWWrsMyRsWZ+QCxVf-0m4KANGw0BXrwKUGggiBpgCYAJwB2COy3CMKir0FyBabhKlTZjYKuW2QvEJvpA)
+[![Gear Link Button]({{site.baseurl}}/assets/images/gear-button.png){: .shadow-box }](https://mxswat.github.io/mx-division-builds/#/IwZgtMAMbdow2jlMgLgKxzsMAmCcYPXVFc9YDCM+ADjMYrV2FbI1Iu8oBYaegxiyJMxQtHn7881cakkg6+MAE4A7BE5aiGAlX7D5PNL0nTpc5sFX5bIfiE2MgA)
 
 [![Blueprint Build Picture]({{site.baseurl}}/assets/images/FI-healer-BTSU-Opportunistic.png){: .shadow-box }]({{site.baseurl}}/assets/images/FI-healer-BTSU-Opportunistic.png)
 
