@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: td2builds.github.io/BuildCollection/sitemap.xml
